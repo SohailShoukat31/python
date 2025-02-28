@@ -1,0 +1,59 @@
+                                                                GIAIC Classes Batch 1 Quarter 3
+First Class 
+Day : Wednesday 7pm-10pm 
+Date :26-02-2025
+                                                                    | Python |
+
+What we Learn in this Q3 🤔 ?
+1 = Python 
+2 = Ai Assistant
+
+Introduction of Python
+
+=> Python is a programming language.
+=> Python is a top language in 2025.
+=> Python was developed by Guido van Rossum in 1991
+=> Python is a High-level and interpreted language 
+=>"Monty Python's Flying Circus" It is British comedy show so it is name is python 
+
+  .Simple and Readable Syntax
+  .Interpreted Language
+
+=> Google Colab IDE
+=> Why we use Google Colab
+Ram and Storage  ki 
+Ai Feature 
+=> Pre rquest install nhn krni parti 
+=> Hum collobarte kr sakte hai 
+=> Differnce Between Byte code and Machine code 🤔  ?
+Byte code is portable 
+
+vs code pr code kia aik fila banai python ka interpretur ayaa  ga aur file ko compile krega jo hamrai byte mein hogi 
+disc.disc
+indentation 
+
+Task 
+Growth mindSet_challenges
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+python3 first_class.py
+
+
